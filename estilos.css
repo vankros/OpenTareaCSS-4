@@ -1,0 +1,7 @@
+#Elemento-1 {
+  text-decoration: none;
+  color: red;
+}
+ol > #Elemento-1 {
+  font-size: 2em;
+}
